@@ -1,0 +1,4 @@
+
+C:\Users\natha\eclipse-workspace\Assignment-3>java -cp ../bin; Main 
+Hello world!
+Hallo Welt!

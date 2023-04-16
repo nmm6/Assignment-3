@@ -1,0 +1,19 @@
+
+C:\Users\natha\eclipse-workspace\Assignment-3>jar -c -m mymanifest.mf -f myprogram.jar bin/ 
+
+C:\Users\natha\eclipse-workspace\Assignment-3>jar tf myprogram.jar 
+META-INF/
+META-INF/MANIFEST.MF
+bin/
+bin/.gitignore
+bin/is/
+bin/is/hi/
+bin/is/hi/nmm6/
+bin/is/hi/nmm6/hbv202g/
+bin/is/hi/nmm6/hbv202g/ass3/
+bin/is/hi/nmm6/hbv202g/ass3/backend/
+bin/is/hi/nmm6/hbv202g/ass3/backend/Greeter$1.class
+bin/is/hi/nmm6/hbv202g/ass3/backend/Greeter.class
+bin/is/hi/nmm6/hbv202g/ass3/backend/Language.class
+bin/is/hi/nmm6/hbv202g/ass3/frontend/
+bin/is/hi/nmm6/hbv202g/ass3/frontend/Main.class

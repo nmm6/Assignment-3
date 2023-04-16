@@ -1,0 +1,2 @@
+cd ..
+.\compile.cmd > Autograder/submissionCompile.txt 2>&1 && .\run.cmd > Autograder/submissionRun.txt 2>&1 && .\createjar.cmd > Autograder/submissionCreatejar.txt 2>&1 && .\runjar.cmd > Autograder/submissionRunjar.txt 2>&1 && cd Autograder 

@@ -1,0 +1,4 @@
+
+C:\Users\natha\eclipse-workspace\Assignment-3>java -jar myprogram.jar 
+Hello world!
+Hallo Welt!

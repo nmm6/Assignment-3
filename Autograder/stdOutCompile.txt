@@ -1,0 +1,6 @@
+
+C:\Users\natha\eclipse-workspace\Assignment-3>javac -d bin is/hi/nmm6/hbv202g/ass3/backend/Language.java 
+
+C:\Users\natha\eclipse-workspace\Assignment-3>javac -d bin is/hi/nmm6/hbv202g/ass3/backend/Greeter.java 
+
+C:\Users\natha\eclipse-workspace\Assignment-3>javac -d bin is/hi/nmm6/hbv202g/ass3/frontend/Main.java 
